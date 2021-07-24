@@ -1,0 +1,63 @@
+body {
+    color: #252525;
+}
+.site-btn {
+    background: #33f;
+}
+.site-btn.gray-btn {
+    color: #252525;
+}
+.site-btn.gray-btn:hover, .site-btn.gray-btn.hover {
+    box-shadow: 10px 10px 20px rgba(37, 37, 37, 0.2);
+    color: #252525;
+}
+.site-btn.gray-btn:active, .site-btn.gray-btn.active {
+    background: #c7c7c7;
+    box-shadow: 10px 10px 20px rgba(37, 37, 37, 0.2);
+}
+.site-btn:hover, .site-btn.hover {
+    box-shadow: 10px 10px 20px rgba(51, 51, 255, 0.2);
+}
+.site-btn:active, .site-btn.active {
+    background: #33f;
+    box-shadow: 10px 10px 20px rgba(51, 51, 255, 0.2);
+}
+.point:after {
+    color: #33f;
+}
+.main-menu ul li a:hover {
+    color: #33f;
+}
+.colored-link:hover, .colored-link:active, .colored-link.hover, .colored-link.active {
+    color: #33f;
+}
+.mixitup-control-active {
+    color: #33f;
+}
+a.fonts-icons:hover, a.fonts-icons.hover {
+    color: #33f;
+}
+a.fonts-icons:active, a.fonts-icons.active {
+    color: #33f;
+}
+.portfolio-box:hover .portfolio-name, .portfolio-box.hover .portfolio-name, .portfolio-box:active .portfolio-name, .portfolio-box.active .portfolio-name {
+    color: #33f;
+}
+.form-wrapper .custom-select-box .custom-select-button:after {
+    color: #33f;
+}
+.form-wrapper input[type=text]:hover + .form-validation, .form-wrapper input[type=email]:hover + .form-validation, .form-wrapper input[type=text]:focus + .form-validation, .form-wrapper input[type=email]:focus + .form-validation, .form-wrapper input[type=text]:active + .form-validation, .form-wrapper input[type=email]:active + .form-validation, .form-wrapper input[type=text].hover + .form-validation, .form-wrapper input[type=email].hover + .form-validation, .form-wrapper input[type=text].active + .form-validation, .form-wrapper input[type=email].active + .form-validation {
+    opacity: 1;
+}
+.form-wrapper textarea:hover + .form-validation, .form-wrapper textarea:focus + .form-validation {
+    opacity: 1;
+}
+.mobile-btn {
+    color: #33f;
+}
+.mob-menu-wrapper {
+    background: #33f;
+}
+.wave-bg .zigzag svg:last-child polyline {
+    stroke: #33f;
+}
